@@ -47,3 +47,6 @@ The project is developed using both **front-end** and **back-end** technologies.
    node server_connections.js
    ```
 3. Open your browser and navigate to `https://RecipeSite.cs.bgu.ac.il` to use the application. - No longer available
+
+Here is a screenshot of the live application:
+![App Screenshot](assignment2-1-frontend\src\assets\screenshot.png)
