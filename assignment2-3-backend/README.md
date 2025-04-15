@@ -46,8 +46,4 @@ The project is developed using both **front-end** and **back-end** technologies.
    ```bash
    node server_connections.js
    ```
-3. Open your browser and navigate to `https://RecipeSite.cs.bgu.ac.il` to use the application.
-
-## Contributors
-- **Razan Jbara** - 322823261.
-- **Shilat Alon** - 318287810.
+3. Open your browser and navigate to `https://RecipeSite.cs.bgu.ac.il` to use the application. - No longer available
